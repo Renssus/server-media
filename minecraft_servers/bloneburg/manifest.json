@@ -1,0 +1,54 @@
+{
+  "server_name": "bloneburg",
+  "nice_name": "BloneBurg",
+  "direct_ip": "play.bloneburg.nl",
+  "server_wildcards": [
+    "%.bloneburg.nl"
+  ],
+  "supported_languages": [
+    "nl"
+  ],
+  "social": {
+    "web": "https://bloneburg.nl",
+    "web_shop": "https://store.bloneburg.nl/",
+    "discord": "https://discord.gg/HqWn6Frxuu",
+    "youtube": "https://www.youtube.com/@bloneburg"
+  },
+  "brand": {
+    "primary": "#008cd3"
+  },
+  "gamemodes": {
+    "survival": {
+      "name": "Survival",
+      "color": "#55FF55"
+    },
+    "skyblock": {
+      "name": "Skyblock",
+      "color": "#55FFFF"
+    },
+    "hardcore": {
+      "name": "Hardcore",
+      "color": "#AA0000"
+    },
+    "minigames": {
+      "name": "Minigames",
+      "color": "#FFFF55"
+    },
+    "hideandseek": {
+      "name": "Hide & Seek",
+      "color": "#55FF55"
+    },
+    "blockparty": {
+      "name": "Block Party",
+      "color": "#FF55FF"
+    },
+    "manhunt": {
+      "name": "Manhunt",
+      "color": "#AA0000"
+    },
+    "capturetheflag": {
+      "name": "Capture The Flag",
+      "color": "#5555FF"
+    }
+  }
+}
